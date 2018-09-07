@@ -12,5 +12,4 @@ public class ActivitiApplicationTests {
     @Test
     public void contextLoads() {
     }
-
 }
