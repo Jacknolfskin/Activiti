@@ -1,12 +1,12 @@
-package com.hu.activiti;
+package com.hu.activiti.two;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ActivitiApplication {
+public class TwoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ActivitiApplication.class, args);
+        SpringApplication.run(TwoApplication.class, args);
     }
 }
